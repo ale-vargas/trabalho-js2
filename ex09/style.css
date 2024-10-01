@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.container {
+    width: 100%;
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 30px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.progresso {
+    height: 100%;
+    width: 0%;
+    background-color: #4caf50;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    font-weight: bold;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}

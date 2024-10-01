@@ -1,0 +1,59 @@
+1. Adicionar uma Tarefa a uma Lista de Tarefas
+Você está criando uma página HTML para um aplicativo de lista de tarefas. Na página, há um campo de entrada de texto e um botão "Adicionar Tarefa". Quando o usuário digitar uma tarefa e clicar no botão, a tarefa deve ser adicionada como um item de lista (<li>) dentro de uma lista não ordenada (<ul>).
+Tarefas:
+Implemente o HTML com um campo de texto, um botão e uma lista vazia.
+Use JavaScript para capturar o valor do campo de entrada e adicionar um novo item de lista à <ul> cada vez que o botão for clicado.
+
+2. Alterar o Estilo de um Parágrafo com Botões
+Você está desenvolvendo uma página com um parágrafo de texto. Abaixo do parágrafo, há dois botões: um para mudar a cor do texto para vermelho e outro para mudar o estilo da fonte para itálico.
+Tarefas:
+Crie o HTML com um parágrafo e dois botões.
+Use JavaScript para alterar o estilo CSS do parágrafo. Ao clicar no primeiro botão, o texto deve ficar vermelho, e ao clicar no segundo botão, o texto deve ficar em itálico.
+
+3. Contador Interativo
+Você precisa criar uma página que exiba um número inicial (0) e dois botões: um para incrementar o número e outro para decrementar. Sempre que o usuário clicar em um botão, o número deve ser atualizado na tela.
+Tarefas:
+Implemente o HTML com um elemento para exibir o número e dois botões.
+Use JavaScript para atualizar o valor do número ao clicar em "Incrementar" e "Decrementar".
+
+4. Filtro de Pesquisa de Nomes
+Você está criando uma página que contém uma lista de nomes. A página também tem um campo de entrada de texto que serve para filtrar os nomes da lista à medida que o usuário digita. Apenas os nomes que contêm o texto digitado devem ser exibidos.
+Tarefas:
+Crie o HTML com uma lista de nomes e um campo de pesquisa.
+Use JavaScript para filtrar os itens da lista com base no texto inserido pelo usuário no campo de pesquisa.
+
+5. Mostrar/Esconder Parágrafos
+Você está desenvolvendo uma página com três parágrafos e um botão "Esconder/Mostrar Parágrafos". Quando o usuário clicar no botão, os parágrafos devem ser escondidos ou exibidos, alternando o estado toda vez que o botão for clicado.
+Tarefas:
+Crie o HTML com três parágrafos e um botão.
+Use JavaScript para alternar a visibilidade dos parágrafos ao clicar no botão.
+
+6. Validação de Formulário de Contato
+Você está criando um formulário de contato simples com três campos: Nome, Email e Mensagem. O formulário tem um botão "Enviar". Quando o botão é clicado, o JavaScript deve verificar se todos os campos estão preenchidos. Se algum campo estiver vazio, uma mensagem de erro deve aparecer abaixo do formulário.
+Tarefas:
+Implemente o HTML com um formulário que contenha os três campos e o botão de envio.
+Use JavaScript para validar o formulário e exibir mensagens de erro apropriadas se os campos não forem preenchidos.
+
+7. Alterar Conteúdo de uma Imagem ao Passar o Mouse
+Você está criando uma galeria de imagens. Quando o usuário passar o mouse sobre uma das imagens, ela deve ser substituída por uma versão ampliada (zoom). Ao remover o mouse, a imagem deve voltar ao seu tamanho original.
+Tarefas:
+Crie o HTML com algumas imagens.
+Use JavaScript para substituir a imagem quando o evento mouseover for acionado e restaurá-la quando o evento mouseout ocorrer.
+
+8. Mudar o Tema da Página com um Seletor
+Você está desenvolvendo uma página que permite ao usuário escolher entre dois temas (claro e escuro). A página contém um seletor (dropdown) que permite alternar entre os temas. Quando o usuário seleciona um tema, a cor de fundo e a cor do texto da página devem mudar de acordo.
+Tarefas:
+Implemente o HTML com um seletor de temas e algum texto na página.
+Use JavaScript para mudar dinamicamente o estilo da página (cor de fundo e cor do texto) com base no tema selecionado pelo usuário.
+
+9. Barra de Progresso Dinâmica
+Você está criando uma página com uma barra de progresso que se enche conforme o usuário clica em um botão "Progredir". A barra de progresso começa vazia e se preenche em 10% a cada clique no botão, até chegar a 100%.
+Tarefas:
+Crie o HTML com uma barra de progresso (pode ser uma div) e um botão.
+Use JavaScript para atualizar a largura da barra de progresso à medida que o botão é clicado.
+
+10. Calculadora Simples
+Você está desenvolvendo uma calculadora simples com dois campos de entrada de número e quatro botões: Adicionar, Subtrair, Multiplicar e Dividir. O resultado deve ser exibido na tela quando um desses botões for clicado, de acordo com a operação escolhida.
+Tarefas:
+Implemente o HTML com dois campos de entrada numérica e os quatro botões de operação.
+Use JavaScript para realizar as operações matemáticas e exibir o resultado na página quando os botões forem clicados.

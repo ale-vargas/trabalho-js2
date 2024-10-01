@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.galeria {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.galeria img {
+    width: 100px;
+    height: auto;
+    transition: transform 0.3s ease; /* Adiciona uma transição suave ao efeito de zoom */
+}
+.galeria img.zoom {
+    transform: scale(2.5); /* Amplia a imagem em 2.5x */
+}
